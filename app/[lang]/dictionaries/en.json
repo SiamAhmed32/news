@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "world": "World",
+    "business": "Business",
+    "lifestyle": "Lifestyle"
+  },
+  "banner": {
+    "breaking_news": "Breaking News",
+    "breaking_news_content": "Climate Summit Reaches Historic Agreement. Tech Giants Announce AI Safety Protocols. Global Markets Show Strong Recovery Signs."
+  },
+  "footer": {
+    "description": "Your daily source of unbiased news. We deliver the latest updates in technology, business, and world events.",
+    "quick_links": "Quick Links",
+    "home": "Home",
+    "about_us": "About Us",
+    "categories": "Categories",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "follow_us": "Follow Us",
+    "rights_reserved": "All rights reserved."
+  }
+}
