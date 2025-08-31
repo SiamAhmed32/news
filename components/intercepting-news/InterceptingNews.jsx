@@ -1,5 +1,3 @@
-// File: components/intercepting-news/InterceptingNews.jsx
-
 import React from "react";
 import newsData from "../../lib/newsData.json";
 import Image from "next/image";

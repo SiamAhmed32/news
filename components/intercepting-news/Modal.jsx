@@ -1,5 +1,3 @@
-// File: components/intercepting-news/Modal.jsx
-
 "use client";
 
 import { useRouter } from "next/navigation";
